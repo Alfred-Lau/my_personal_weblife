@@ -1,0 +1,18 @@
+{
+  "name": "my_personal_weblife",
+  "version": "0.0.1",
+  "description": "结合了个人在网络上日常所使用的所有常规服务和消息更新,包括github,小说站等等",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Alfred-Lau/my_personal_weblife",
+  "keywords": [
+    "Electron",
+    "my_personal_weblife",
+  ],
+  "author": "lj",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
